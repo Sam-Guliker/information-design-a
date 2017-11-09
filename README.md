@@ -61,9 +61,9 @@ d3.csv("data/top100.csv", function(data) {
 * d3-selection — d3.select — Select elements
 
 ## Bronnen
-  https://bl.ocks.org/mbostock/3885304 - Mike Bostock’s
-  https://bl.ocks.org/ch-bu/f3d1fc6e905f80b0706663fbefe317bc - Christian Burkhart’s
-  https://bl.ocks.org/alandunning/7008d0332cc28a826b37b3cf6e7bd998 - Alan Dunning’s
+  * https://bl.ocks.org/mbostock/3885304 - Mike Bostock’s
+  * https://bl.ocks.org/ch-bu/f3d1fc6e905f80b0706663fbefe317bc - Christian Burkhart’s
+  * https://bl.ocks.org/alandunning/7008d0332cc28a826b37b3cf6e7bd998 - Alan Dunning’s
   
 ## Licentie
 Alle rechten behoren bij 
