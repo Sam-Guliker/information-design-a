@@ -1,0 +1,111 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #F1F3F3;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Montserrat', sans-serif;
+}
+p, li, text, input,label{
+  font-family: 'Roboto', sans-serif;
+  padding-top:10px;
+}
+section{
+  display: flex;
+  flex-direction: column;
+  width:100vw;
+  height:100vh;
+  background:#2e2e2e;
+}
+
+span{
+  opacity: 0;
+  text-align: center;
+  color:white;
+  position: absolute;
+  top:80px;
+  animation: arrow 1.4s ease infinite;
+}
+svg{
+  margin:auto;
+}
+#crypto{
+  position: relative;
+  display: flex;
+  height:100vh;
+  width:100vw;
+  background-color: #2e2e2e;
+  margin:auto;
+
+}
+.center{
+  position: relative;
+  margin:auto;
+  text-align: center;
+}
+.bar {
+	fill: #4B5EFF;
+}
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #D4D8DA;
+  stroke-width: 1px;
+  shape-rendering: crispEdges;
+}
+.x path {
+	display: none;
+}
+.toolTip {
+	position: absolute;
+  display: none;
+  min-width: 80px;
+  height: auto;
+  background: none repeat scroll 0 0 #ffffff;
+  border: 1px solid #4B5EFF;
+  padding: 14px;
+  text-align: center;
+}
+
+.bar--negative {
+  fill: #FF4B63;
+}
+
+.axis text {
+  font: 10px sans-serif;
+}
+
+.axisPN path,
+.axisPN line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+#crypto{
+  width:100vw;
+  height:100vh;
+}
+h1,p,text{
+  color:white;
+}
+
+.tick text{
+  fill:white;
+}
+
+.container{
+  width:960px;
+  margin:auto;
+}
+.container p:last-of-type{
+  margin-bottom:40px;
+}
+@keyframes arrow {
+  to{
+    opacity: 1;
+    top:140px;
+  }
+}

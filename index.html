@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!--
+
+    Source:
+      https://bl.ocks.org/mbostock/3885304 - Mike Bostock’s
+      https://bl.ocks.org/ch-bu/f3d1fc6e905f80b0706663fbefe317bc - Christian Burkhart’s
+      https://bl.ocks.org/alandunning/7008d0332cc28a826b37b3cf6e7bd998 - Alan Dunning’s
+
+
+  -->
+  <meta charset="UTF-8">
+  <title> Crypto Currencies</title>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat|Roboto" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+</head>
+
+<body>
+  <section id="crypto">
+    <div class="center">
+      <h1>CRYPTOCURRENCIES</h1>
+      <p>In dit document zijn 3 variabelen die een belangrijke </p>
+      <p>rol spelen bij de cryptocurrencies.</p>
+      <span> &#8675; </span>
+    </div>
+
+  </section>
+  <section id="prijs">
+    <div class="container">
+        <h1>PRIJS</h1>
+        <p>De huidige waarde</p>
+        <p><b>Inzicht:</b> Bitcoin is de grootste speler op elk vlak van de verschillende variabelen.</p>
+      <svg id="bar-tool" width="860" height="400"></svg>
+    </div>
+  </section>
+
+  <section id="uren">
+    <div class="container">
+        <h1>DE LAATSTE 24 UUR</h1>
+        <p> Laat het percentage zien van hoeveel de currency gestegen of gedaalt is. </p>
+        <p><b>Inzicht:</b> De 24h change kun je snel zien wat de stijgingen zijn in de waardes.</p>
+      <svg id="PN"></svg>
+    </div>
+  </section>
+
+  <section id="markt">
+    <div class="container">
+        <h1>PRIJS</h1>
+        <p>De huidige waarde</p>
+          <p><b>Inzicht:</b> Bij de Marketcap kun je de gehele waarde zien van de currencies.</p>
+      <svg id="barchart" width="960" height="500"></svg>
+    </div>
+  </section>
+
+  <script src="scripts/d3.js"></script>
+</body>
+
+</html>
