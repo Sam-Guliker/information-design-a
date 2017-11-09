@@ -5,15 +5,15 @@ Een school project met het hoofdonderwerp de top 10 cryptocurrencies.
 
 ## Beschrijving
 In deze opdracht heb ik 3 inzichten verwerkt en met de d3 library gewerkt.
-Hierin wordt data opgeschoont en de data staat op de juiste plek.
+Hierin wordt data opgeschoond en de data staat op de juiste plek.
 
 ## Achtergrond
 Dit is een data-visualizatie over de top-10 cryptocurrencies, hierin kun je zien wat ze waard zijn,
-hoegroot de markt voor hun is, en hoe de prijs veranderd in de afgelopen 24 uur.
+hoe groot de markt voor hun is, en hoe de prijs veranderd in de afgelopen 24 uur.
 
 ## Process
 Eerst ben ik gaan zoeken naar een leuk onderwerp, die ik via [kaggle](https://www.kaggle.com/datasets)
-en ik kwam uit op een hededaagse trend [Top 100 Cryptocurrency Historical Data](www.coinmarketcap.com)
+en ik kwam uit op een hedendaagse trend [Top 100 Cryptocurrency Historical Data](www.coinmarketcap.com)
 Daarna ben ik gaan welke data ik wilde gebruiken en welke inzichten ik eruit kon halen.
 Vervolgens ben ik grafieken gaan maken met de onderwerpen die ik heb gebruikt.
 
