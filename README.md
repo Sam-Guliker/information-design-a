@@ -1,6 +1,6 @@
 # Information Design Opdracht A
 Een school project met het hoofdonderwerp de top 10 cryptocurrencies.
-(preview-1.png)
+![preview](preview-1.png)
 
 ## Beschrijving
 In deze opdracht heb ik 3 inzichten verwerkt en met de d3 library gewerkt.
