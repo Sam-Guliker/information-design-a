@@ -17,6 +17,9 @@ Directory.
 |
 |-- data/
 |   |-- top100.csv
+|
+|-- index.html
+|-- Readme.md
 ```
 ## Data cleaning
 Hiermee pak ik de dataset en vervang ik al de overbodige tekens.
