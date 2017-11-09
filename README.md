@@ -6,6 +6,7 @@ In deze opdracht heb ik 3 inzichten verwerkt en met de d3 library gewerkt.
 Hierin wordt data opgeschoont en de data staat op de juiste plek.
 
 ## Directory
+```
 Directory.
 |
 |-- css
@@ -16,7 +17,7 @@ Directory.
 |
 |-- data/
 |   |-- top100.csv
-
+```
 ## Data cleaning
 Hiermee pak ik de dataset en vervang ik al de overbodige tekens.
 Met de data.sort functie zorg ik ervoor dat er numbers terug worden gestuurd.
