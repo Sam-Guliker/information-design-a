@@ -1,7 +1,7 @@
 # Information Design Opdracht A
 
-Een school project met het hoofdonderwerp de top 10 cryptocurrencies.
 ![preview](preview-1.png)
+Een school project met het hoofdonderwerp de top 10 cryptocurrencies.
 
 ## Beschrijving
 In deze opdracht heb ik 3 inzichten verwerkt en met de d3 library gewerkt.
@@ -66,8 +66,10 @@ d3.csv("data/top100.csv", function(data) {
   https://bl.ocks.org/alandunning/7008d0332cc28a826b37b3cf6e7bd998 - Alan Dunning’s
   
 ### License
-Alle rechten behoren bij [Mike Bostock](https://bl.ocks.org/mbostock/3885304), [D3](https://d3js.org/), [Alan Dunning's](https://bl.ocks.org/alandunning/7008d0332cc28a826b37b3cf6e7bd998) en [Kaggle](https://www.kaggle.com/natehenderson/top-100-cryptocurrency-historical-data
-)
+* Alle rechten behoren bij [Mike Bostock](https://bl.ocks.org/mbostock/3885304),
+* [D3](https://d3js.org/)
+* [Alan Dunning's](https://bl.ocks.org/alandunning/7008d0332cc28a826b37b3cf6e7bd998) 
+* [Kaggle](https://www.kaggle.com/natehenderson/top-100-cryptocurrency-historical-data)
 
 MIT © Sam Guliker
 
