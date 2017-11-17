@@ -1,6 +1,7 @@
 # Information Design Opdracht A
 
 ![preview](preview-1.png)
+https://senmetsu.github.io/information-design-a/
 Een school project met het hoofdonderwerp de top 10 cryptocurrencies.
 
 ## Beschrijving
